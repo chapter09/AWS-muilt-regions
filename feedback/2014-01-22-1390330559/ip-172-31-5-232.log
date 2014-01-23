@@ -1,0 +1,54 @@
+------------------------------------------------------------
+Server listening on TCP port 10086
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 172.31.5.232 port 10086 connected with 54.254.233.84 port 38971
+[  5] local 172.31.5.232 port 10086 connected with 54.254.233.85 port 42639
+[  6] local 172.31.5.232 port 10086 connected with 54.199.164.39 port 56218
+[  7] local 172.31.5.232 port 10086 connected with 54.199.128.226 port 46595
+[  8] local 172.31.5.232 port 10086 connected with 54.193.26.119 port 46420
+[  9] local 172.31.5.232 port 10086 connected with 54.206.72.60 port 37546
+[ 10] local 172.31.5.232 port 10086 connected with 54.200.75.61 port 53871
+[ 11] local 172.31.5.232 port 10086 connected with 54.193.67.252 port 41737
+[ 12] local 172.31.5.232 port 10086 connected with 54.206.66.219 port 50256
+[ 13] local 172.31.5.232 port 10086 connected with 54.200.105.10 port 50124
+[ 14] local 172.31.5.232 port 10086 connected with 54.209.228.40 port 59130
+[ 15] local 172.31.5.232 port 10086 connected with 54.236.224.34 port 36225
+[ 16] local 172.31.5.232 port 10086 connected with 54.207.54.205 port 48682
+[ 17] local 172.31.5.232 port 10086 connected with 54.207.54.206 port 46639
+[ ID] Interval       Transfer     Bandwidth
+[  5]  0.0-12.0 sec  3.88 MBytes  2.71 Mbits/sec
+[  6]  0.0-12.1 sec  3.62 MBytes  2.51 Mbits/sec
+[  7]  0.0-12.1 sec  1.38 MBytes   951 Kbits/sec
+[ 10]  0.0-12.2 sec  3.88 MBytes  2.67 Mbits/sec
+[  4]  0.0-13.6 sec  2.75 MBytes  1.70 Mbits/sec
+[ 14]  0.0-11.8 sec  6.62 MBytes  4.70 Mbits/sec
+[  8]  0.0-12.8 sec  5.00 MBytes  3.28 Mbits/sec
+[ 13]  0.0-12.5 sec  4.25 MBytes  2.85 Mbits/sec
+[ 15]  0.0-12.2 sec  4.12 MBytes  2.85 Mbits/sec
+[  9]  0.0-12.9 sec  3.00 MBytes  1.95 Mbits/sec
+[ 17]  0.0-10.8 sec  5.38 MBytes  4.18 Mbits/sec
+[ 11]  0.0-14.8 sec  1.88 MBytes  1.06 Mbits/sec
+[ 16]  0.0-13.0 sec  4.62 MBytes  2.99 Mbits/sec
+[ 12]  0.0-30.1 sec   384 KBytes   104 Kbits/sec
+[ 18] local 172.31.5.232 port 10086 connected with 54.254.233.85 port 42653
+[  4] local 172.31.5.232 port 10086 connected with 54.254.233.84 port 38987
+[  5] local 172.31.5.232 port 10086 connected with 54.199.128.226 port 46609
+[  6] local 172.31.5.232 port 10086 connected with 54.199.164.39 port 56232
+[  7] local 172.31.5.232 port 10086 connected with 54.206.72.60 port 37560
+[  8] local 172.31.5.232 port 10086 connected with 54.193.26.119 port 46434
+[  9] local 172.31.5.232 port 10086 connected with 54.200.105.10 port 50138
+[ 10] local 172.31.5.232 port 10086 connected with 54.206.66.219 port 50270
+[ 11] local 172.31.5.232 port 10086 connected with 54.200.75.61 port 53885
+[ 12] local 172.31.5.232 port 10086 connected with 54.193.67.252 port 41751
+[ 13] local 172.31.5.232 port 10086 connected with 54.209.228.40 port 59144
+[ 14] local 172.31.5.232 port 10086 connected with 54.236.224.34 port 36239
+[ 15] local 172.31.5.232 port 10086 connected with 54.207.54.205 port 48696
+[ 16] local 172.31.5.232 port 10086 connected with 54.207.54.206 port 46653
+[  4]  0.0-11.2 sec  2.12 MBytes  1.60 Mbits/sec
+[  5]  0.0-11.3 sec  2.62 MBytes  1.95 Mbits/sec
+[  6]  0.0-11.7 sec  2.50 MBytes  1.79 Mbits/sec
+[ 14]  0.0-10.9 sec  3.38 MBytes  2.61 Mbits/sec
+[ 18]  0.0-13.0 sec  3.25 MBytes  2.10 Mbits/sec
+[  7]  0.0-11.9 sec  2.12 MBytes  1.50 Mbits/sec
+[ 13]  0.0-11.4 sec  4.62 MBytes  3.41 Mbits/sec

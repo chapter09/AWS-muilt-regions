@@ -1,0 +1,33 @@
+------------------------------------------------------------
+Server listening on TCP port 10086
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 172.31.24.12 port 10086 connected with 54.254.233.84 port 57844
+[  5] local 172.31.24.12 port 10086 connected with 54.254.233.85 port 48367
+[  6] local 172.31.24.12 port 10086 connected with 54.199.128.226 port 48326
+[  7] local 172.31.24.12 port 10086 connected with 54.199.164.39 port 50191
+[  9] local 172.31.24.12 port 10086 connected with 54.193.26.119 port 41737
+[  8] local 172.31.24.12 port 10086 connected with 54.206.72.60 port 43733
+[ 10] local 172.31.24.12 port 10086 connected with 54.193.67.252 port 48301
+[ 11] local 172.31.24.12 port 10086 connected with 54.206.66.219 port 53505
+[ 12] local 172.31.24.12 port 10086 connected with 54.200.75.61 port 55949
+[ 13] local 172.31.24.12 port 10086 connected with 54.200.105.10 port 60017
+[ 14] local 172.31.24.12 port 10086 connected with 54.209.228.40 port 50828
+[ 15] local 172.31.24.12 port 10086 connected with 54.236.224.34 port 53365
+[ 16] local 172.31.24.12 port 10086 connected with 54.194.219.19 port 52079
+[ 17] local 172.31.24.12 port 10086 connected with 54.194.219.8 port 36104
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-10.4 sec  3.75 MBytes  3.01 Mbits/sec
+[  9]  0.0-10.5 sec  7.88 MBytes  6.31 Mbits/sec
+[ 10]  0.0-10.5 sec  8.75 MBytes  6.99 Mbits/sec
+[ 11]  0.0-10.6 sec  5.75 MBytes  4.54 Mbits/sec
+[  5]  0.0-11.9 sec  3.25 MBytes  2.29 Mbits/sec
+[  8]  0.0-11.0 sec  4.88 MBytes  3.73 Mbits/sec
+[  7]  0.0-11.7 sec  2.75 MBytes  1.97 Mbits/sec
+[ 12]  0.0-11.0 sec  5.88 MBytes  4.47 Mbits/sec
+[ 14]  0.0-10.8 sec  10.8 MBytes  8.34 Mbits/sec
+[ 16]  0.0-10.4 sec  8.62 MBytes  6.94 Mbits/sec
+[ 15]  0.0-11.0 sec  9.25 MBytes  7.05 Mbits/sec
+[  6]  0.0-13.1 sec  3.50 MBytes  2.24 Mbits/sec
+[ 13]  0.0-12.4 sec  5.62 MBytes  3.81 Mbits/sec
+[ 17]  0.0-11.8 sec  5.50 MBytes  3.92 Mbits/sec

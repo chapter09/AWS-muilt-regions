@@ -1,0 +1,33 @@
+------------------------------------------------------------
+Server listening on TCP port 10086
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 172.31.12.155 port 10086 connected with 54.254.233.84 port 59416
+[  5] local 172.31.12.155 port 10086 connected with 54.254.233.85 port 55753
+[  6] local 172.31.12.155 port 10086 connected with 54.199.128.226 port 37229
+[  7] local 172.31.12.155 port 10086 connected with 54.199.164.39 port 55380
+[  8] local 172.31.12.155 port 10086 connected with 54.193.26.119 port 59625
+[  9] local 172.31.12.155 port 10086 connected with 54.193.67.252 port 52849
+[ 10] local 172.31.12.155 port 10086 connected with 54.200.75.61 port 37850
+[ 11] local 172.31.12.155 port 10086 connected with 54.200.105.10 port 43064
+[ 12] local 172.31.12.155 port 10086 connected with 54.209.228.40 port 54467
+[ 13] local 172.31.12.155 port 10086 connected with 54.236.224.34 port 46443
+[ 14] local 172.31.12.155 port 10086 connected with 54.194.219.19 port 51925
+[ 15] local 172.31.12.155 port 10086 connected with 54.194.219.8 port 53363
+[ 16] local 172.31.12.155 port 10086 connected with 54.207.54.205 port 53573
+[ 17] local 172.31.12.155 port 10086 connected with 54.207.54.206 port 33009
+[ ID] Interval       Transfer     Bandwidth
+[  6]  0.0-10.4 sec  11.1 MBytes  8.94 Mbits/sec
+[  7]  0.0-10.4 sec  13.6 MBytes  11.0 Mbits/sec
+[  4]  0.0-10.9 sec  9.88 MBytes  7.63 Mbits/sec
+[  8]  0.0-10.6 sec  7.62 MBytes  6.05 Mbits/sec
+[ 10]  0.0-10.5 sec  8.38 MBytes  6.71 Mbits/sec
+[  9]  0.0-10.9 sec  8.38 MBytes  6.47 Mbits/sec
+[ 11]  0.0-10.8 sec  7.12 MBytes  5.52 Mbits/sec
+[  5]  0.0-12.6 sec  4.75 MBytes  3.16 Mbits/sec
+[ 12]  0.0-10.6 sec  8.25 MBytes  6.52 Mbits/sec
+[ 13]  0.0-10.9 sec  6.50 MBytes  5.01 Mbits/sec
+[ 15]  0.0-10.6 sec  5.00 MBytes  3.97 Mbits/sec
+[ 14]  0.0-11.0 sec  3.75 MBytes  2.85 Mbits/sec
+[ 16]  0.0-10.5 sec  6.38 MBytes  5.10 Mbits/sec
+[ 17]  0.0-11.4 sec  3.12 MBytes  2.30 Mbits/sec

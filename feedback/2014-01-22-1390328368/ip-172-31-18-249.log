@@ -1,0 +1,33 @@
+------------------------------------------------------------
+Server listening on TCP port 10086
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 172.31.18.249 port 10086 connected with 54.254.233.84 port 36225
+[  5] local 172.31.18.249 port 10086 connected with 54.254.233.85 port 39718
+[  6] local 172.31.18.249 port 10086 connected with 54.199.128.226 port 49023
+[  7] local 172.31.18.249 port 10086 connected with 54.199.164.39 port 45070
+[  8] local 172.31.18.249 port 10086 connected with 54.206.72.60 port 44255
+[  9] local 172.31.18.249 port 10086 connected with 54.206.66.219 port 46884
+[ 10] local 172.31.18.249 port 10086 connected with 54.193.26.119 port 39608
+[ 11] local 172.31.18.249 port 10086 connected with 54.193.67.252 port 35736
+[ 12] local 172.31.18.249 port 10086 connected with 54.200.75.61 port 38364
+[ 13] local 172.31.18.249 port 10086 connected with 54.200.105.10 port 38384
+[ 14] local 172.31.18.249 port 10086 connected with 54.194.219.19 port 60540
+[ 15] local 172.31.18.249 port 10086 connected with 54.194.219.8 port 44355
+[ 16] local 172.31.18.249 port 10086 connected with 54.207.54.205 port 47406
+[ 17] local 172.31.18.249 port 10086 connected with 54.207.54.206 port 58300
+[ ID] Interval       Transfer     Bandwidth
+[  7]  0.0-10.7 sec  2.12 MBytes  1.67 Mbits/sec
+[  4]  0.0-11.4 sec  4.50 MBytes  3.32 Mbits/sec
+[ 10]  0.0-10.4 sec  16.8 MBytes  13.6 Mbits/sec
+[  8]  0.0-10.5 sec  6.75 MBytes  5.40 Mbits/sec
+[ 11]  0.0-10.6 sec  8.62 MBytes  6.81 Mbits/sec
+[ 13]  0.0-10.4 sec  10.8 MBytes  8.65 Mbits/sec
+[ 12]  0.0-10.7 sec  11.0 MBytes  8.60 Mbits/sec
+[  6]  0.0-11.8 sec  4.88 MBytes  3.45 Mbits/sec
+[ 15]  0.0-10.4 sec  5.38 MBytes  4.35 Mbits/sec
+[  9]  0.0-12.1 sec  4.12 MBytes  2.86 Mbits/sec
+[ 17]  0.0-10.4 sec  6.12 MBytes  4.96 Mbits/sec
+[ 14]  0.0-11.4 sec  4.25 MBytes  3.13 Mbits/sec
+[ 16]  0.0-10.8 sec  8.50 MBytes  6.62 Mbits/sec
+[  5]  0.0-14.2 sec  2.88 MBytes  1.69 Mbits/sec

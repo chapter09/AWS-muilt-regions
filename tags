@@ -1,0 +1,46 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Slot	vxargs-0.3.3.py	/^class Slot:$/;"	c
+Slots	vxargs-0.3.3.py	/^class Slots:$/;"	c
+__init__	vxargs-0.3.3.py	/^    def __init__(self, max, screen, timeout, outdir):$/;"	m	class:Slots
+__init__	vxargs-0.3.3.py	/^    def __init__(self, outdir, num, screen, timeout, name, count):$/;"	m	class:Slot
+commands	vxargs-0.3.3.py	/^import curses, random, commands$/;"	i
+curses	vxargs-0.3.3.py	/^import curses, random, commands$/;"	i
+drawLine	vxargs-0.3.3.py	/^    def drawLine(self, comment='', done = False):$/;"	m	class:Slot
+drawTitle	vxargs-0.3.3.py	/^    def drawTitle(self, stuff):$/;"	m	class:Slots
+errno	vxargs-0.3.3.py	/^import os, sys, time, signal, errno$/;"	i
+final_stats	vxargs-0.3.3.py	/^final_stats = {}$/;"	v
+generateCommands	vxargs-0.3.3.py	/^def generateCommands(cmd_line, args):$/;"	f
+getListFromFile	vxargs-0.3.3.py	/^def getListFromFile(f):$/;"	f
+getSlot	vxargs-0.3.3.py	/^    def getSlot(self, name, count):$/;"	m	class:Slots
+get_last_line	vxargs-0.3.3.py	/^def get_last_line(fn):$/;"	f
+get_last_line_py	vxargs-0.3.3.py	/^def get_last_line_py(fn):$/;"	f
+get_output	vxargs-0.3.3.py	/^def get_output(outdir, argument_list, out= True, err=False, status=False):$/;"	f
+getopt	vxargs-0.3.3.py	/^import getopt$/;"	i
+gsl	vxargs-0.3.3.py	/^gsl = None$/;"	v
+handler	vxargs-0.3.3.py	/^def handler(signum, frame_unused):$/;"	f
+kill	vxargs-0.3.3.py	/^    def kill(self, pid):$/;"	m	class:Slot
+main	vxargs-0.3.3.py	/^def main():$/;"	f
+mapPID	vxargs-0.3.3.py	/^    def mapPID(self, pid, slot):$/;"	m	class:Slots
+os	vxargs-0.3.3.py	/^import os, sys, time, signal, errno$/;"	i
+pids	vxargs-0.3.3.py	/^    pids = {}$/;"	v	class:Slots
+random	vxargs-0.3.3.py	/^import curses, random, commands$/;"	i
+signal	vxargs-0.3.3.py	/^import os, sys, time, signal, errno$/;"	i
+spawn	vxargs-0.3.3.py	/^def spawn(cmdline, outfn, errfn, setpgrp = False):$/;"	f
+start	vxargs-0.3.3.py	/^def start(win, max_child, hlist, outdir, randomize, command_line, timeout):$/;"	f
+stop	vxargs-0.3.3.py	/^    def stop(self):$/;"	m	class:Slots
+stop	vxargs-0.3.3.py	/^    def stop(self, pid):$/;"	m	class:Slot
+stopping	vxargs-0.3.3.py	/^stopping = 0$/;"	v
+sys	vxargs-0.3.3.py	/^import os, sys, time, signal, errno$/;"	i
+time	vxargs-0.3.3.py	/^import os, sys, time, signal, errno$/;"	i
+timeout	vxargs-0.3.3.py	/^    def timeout(self):$/;"	m	class:Slots
+update	vxargs-0.3.3.py	/^    def update(self):$/;"	m	class:Slots
+update	vxargs-0.3.3.py	/^    def update(self, pid):$/;"	m	class:Slot
+update_rate	vxargs-0.3.3.py	/^update_rate = 1$/;"	v
+usage	vxargs-0.3.3.py	/^def usage():$/;"	f
+version	vxargs-0.3.3.py	/^version = "0.3.3"$/;"	v
+waitJobs	vxargs-0.3.3.py	/^    def waitJobs(self):$/;"	m	class:Slots

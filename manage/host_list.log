@@ -1,0 +1,108 @@
+NETWORKINTERFACE	eni-5e270d18		subnet-ec6831aa	vpc-32b1a050	eu-west-1c	953969834742		false	in-use	0a:ec:05:59:22:55	172.31.5.233	ip-172-31-5-233.eu-west-1.compute.internal	true
+GROUP	sg-7d8f961f	launch-wizard-2
+ATTACHMENT	i-ba1c7bf6	eni-attach-a9cb0de6	attached	true
+ASSOCIATION	54.194.219.19	amazon		172.31.5.233	ec2-54-194-219-19.eu-west-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.5.233	ip-172-31-5-233.eu-west-1.compute.internal
+NETWORKINTERFACE	eni-51270d17		subnet-ec6831aa	vpc-32b1a050	eu-west-1c	953969834742		false	in-use	0a:b8:43:57:3c:93	172.31.5.232	ip-172-31-5-232.eu-west-1.compute.internal	true
+GROUP	sg-7d8f961f	launch-wizard-2
+ATTACHMENT	i-b91c7bf5	eni-attach-b7cb0df8	attached	true
+ASSOCIATION	54.194.219.8	amazon		172.31.5.232	ec2-54-194-219-8.eu-west-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.5.232	ip-172-31-5-232.eu-west-1.compute.internal
+NETWORKINTERFACE	eni-9a2fccff		subnet-ee495f8c	vpc-07df0662	sa-east-1a	953969834742		false	in-use	02:2c:64:56:ac:2d	172.31.24.13	ip-172-31-24-13.sa-east-1.compute.internal	true
+GROUP	sg-16e6f574	launch-wizard-2
+ATTACHMENT	i-fe20c2e0	eni-attach-4e2a3c52	attached	true
+ASSOCIATION	54.207.54.206	amazon		172.31.24.13	ec2-54-207-54-206.sa-east-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.24.13	ip-172-31-24-13.sa-east-1.compute.internal
+NETWORKINTERFACE	eni-9b2fccfe		subnet-ee495f8c	vpc-07df0662	sa-east-1a	953969834742		false	in-use	02:ec:77:de:07:be	172.31.24.12	ip-172-31-24-12.sa-east-1.compute.internal	true
+GROUP	sg-16e6f574	launch-wizard-2
+ATTACHMENT	i-ff20c2e1	eni-attach-4f2a3c53	attached	true
+ASSOCIATION	54.207.54.205	amazon		172.31.24.12	ec2-54-207-54-205.sa-east-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.24.12	ip-172-31-24-12.sa-east-1.compute.internal
+eu-west-1
+NETWORKINTERFACE	eni-5e270d18		subnet-ec6831aa	vpc-32b1a050	eu-west-1c	953969834742		false	in-use	0a:ec:05:59:22:55	172.31.5.233	ip-172-31-5-233.eu-west-1.compute.internal	true
+GROUP	sg-7d8f961f	launch-wizard-2
+ATTACHMENT	i-ba1c7bf6	eni-attach-a9cb0de6	attached	true
+ASSOCIATION	54.194.219.19	amazon		172.31.5.233	ec2-54-194-219-19.eu-west-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.5.233	ip-172-31-5-233.eu-west-1.compute.internal
+NETWORKINTERFACE	eni-51270d17		subnet-ec6831aa	vpc-32b1a050	eu-west-1c	953969834742		false	in-use	0a:b8:43:57:3c:93	172.31.5.232	ip-172-31-5-232.eu-west-1.compute.internal	true
+GROUP	sg-7d8f961f	launch-wizard-2
+ATTACHMENT	i-b91c7bf5	eni-attach-b7cb0df8	attached	true
+ASSOCIATION	54.194.219.8	amazon		172.31.5.232	ec2-54-194-219-8.eu-west-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.5.232	ip-172-31-5-232.eu-west-1.compute.internal
+sa-east-1
+NETWORKINTERFACE	eni-9a2fccff		subnet-ee495f8c	vpc-07df0662	sa-east-1a	953969834742		false	in-use	02:2c:64:56:ac:2d	172.31.24.13	ip-172-31-24-13.sa-east-1.compute.internal	true
+GROUP	sg-16e6f574	launch-wizard-2
+ATTACHMENT	i-fe20c2e0	eni-attach-4e2a3c52	attached	true
+ASSOCIATION	54.207.54.206	amazon		172.31.24.13	ec2-54-207-54-206.sa-east-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.24.13	ip-172-31-24-13.sa-east-1.compute.internal
+NETWORKINTERFACE	eni-9b2fccfe		subnet-ee495f8c	vpc-07df0662	sa-east-1a	953969834742		false	in-use	02:ec:77:de:07:be	172.31.24.12	ip-172-31-24-12.sa-east-1.compute.internal	true
+GROUP	sg-16e6f574	launch-wizard-2
+ATTACHMENT	i-ff20c2e1	eni-attach-4f2a3c53	attached	true
+ASSOCIATION	54.207.54.205	amazon		172.31.24.12	ec2-54-207-54-205.sa-east-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.24.12	ip-172-31-24-12.sa-east-1.compute.internal
+us-east-1
+NETWORKINTERFACE	eni-6230c715		subnet-7f261e0b	vpc-ce4bafab	us-east-1c	953969834742		false	in-use	0a:39:c1:15:e8:8a	172.31.18.250	ip-172-31-18-250.ec2.internal	true
+GROUP	sg-32864257	launch-wizard-2
+ATTACHMENT	i-d4e356fa	eni-attach-be7da0d1	attached	true
+ASSOCIATION	54.236.224.34	amazon		172.31.18.250	ec2-54-236-224-34.compute-1.amazonaws.com
+PRIVATEIPADDRESS	172.31.18.250	ip-172-31-18-250.ec2.internal
+NETWORKINTERFACE	eni-6330c714		subnet-7f261e0b	vpc-ce4bafab	us-east-1c	953969834742		false	in-use	0a:b7:aa:a7:13:03	172.31.18.249	ip-172-31-18-249.ec2.internal	true
+GROUP	sg-32864257	launch-wizard-2
+ATTACHMENT	i-d5e356fb	eni-attach-bf7da0d0	attached	true
+ASSOCIATION	54.209.228.40	amazon		172.31.18.249	ec2-54-209-228-40.compute-1.amazonaws.com
+PRIVATEIPADDRESS	172.31.18.249	ip-172-31-18-249.ec2.internal
+ap-northeast-1
+NETWORKINTERFACE	eni-a66569d2		subnet-eb88b59f	vpc-e1c6d083	ap-northeast-1a	953969834742		false	in-use	06:98:d5:cc:fe:c7	172.31.9.112	ip-172-31-9-112.ap-northeast-1.compute.internal	true
+GROUP	sg-fe706d9c	launch-wizard-2
+ATTACHMENT	i-c93886ce	eni-attach-adb8a0a8	attached	true
+ASSOCIATION	54.199.128.226	amazon		172.31.9.112	ec2-54-199-128-226.ap-northeast-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.9.112	ip-172-31-9-112.ap-northeast-1.compute.internal
+NETWORKINTERFACE	eni-a56569d1		subnet-eb88b59f	vpc-e1c6d083	ap-northeast-1a	953969834742		false	in-use	06:c5:76:fd:18:53	172.31.9.113	ip-172-31-9-113.ap-northeast-1.compute.internal	true
+GROUP	sg-fe706d9c	launch-wizard-2
+ATTACHMENT	i-c83886cf	eni-attach-28879f2d	attached	true
+ASSOCIATION	54.199.164.39	amazon		172.31.9.113	ec2-54-199-164-39.ap-northeast-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.9.113	ip-172-31-9-113.ap-northeast-1.compute.internal
+us-west-2
+NETWORKINTERFACE	eni-eb6f908e		subnet-bff3ecdd	vpc-9ac9d4f8	us-west-2a	953969834742		false	in-use	02:9b:6d:0f:cf:3c	172.31.42.119	ip-172-31-42-119.us-west-2.compute.internal	true
+GROUP	sg-7f55b31a	launch-wizard-3
+ATTACHMENT	i-c8329ec1	eni-attach-a5140491	attached	true
+ASSOCIATION	54.200.105.10	amazon		172.31.42.119	ec2-54-200-105-10.us-west-2.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.42.119	ip-172-31-42-119.us-west-2.compute.internal
+NETWORKINTERFACE	eni-ea6f908f		subnet-bff3ecdd	vpc-9ac9d4f8	us-west-2a	953969834742		false	in-use	02:63:37:92:9d:fd	172.31.42.118	ip-172-31-42-118.us-west-2.compute.internal	true
+GROUP	sg-7f55b31a	launch-wizard-3
+ATTACHMENT	i-c9329ec0	eni-attach-a4140490	attached	true
+ASSOCIATION	54.200.75.61	amazon		172.31.42.118	ec2-54-200-75-61.us-west-2.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.42.118	ip-172-31-42-118.us-west-2.compute.internal
+us-west-1
+NETWORKINTERFACE	eni-71698414		subnet-c47969a6	vpc-dabfa8b8	us-west-1c	953969834742		false	in-use	02:ff:68:8d:46:fb	172.31.31.92	ip-172-31-31-92.us-west-1.compute.internal	true
+GROUP	sg-c8e7f5aa	launch-wizard-2
+ATTACHMENT	i-cd51de90	eni-attach-5f0cbc05	attached	true
+ASSOCIATION	54.193.67.252	amazon		172.31.31.92	ec2-54-193-67-252.us-west-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.31.92	ip-172-31-31-92.us-west-1.compute.internal
+NETWORKINTERFACE	eni-76698413		subnet-c47969a6	vpc-dabfa8b8	us-west-1c	953969834742		false	in-use	02:c6:41:7e:b4:26	172.31.31.93	ip-172-31-31-93.us-west-1.compute.internal	true
+GROUP	sg-c8e7f5aa	launch-wizard-2
+ATTACHMENT	i-ce51de93	eni-attach-5e0cbc04	attached	true
+ASSOCIATION	54.193.26.119	amazon		172.31.31.93	ec2-54-193-26-119.us-west-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.31.93	ip-172-31-31-93.us-west-1.compute.internal
+ap-southeast-1
+NETWORKINTERFACE	eni-6026c105		subnet-43697b21	vpc-f1372193	ap-southeast-1a	953969834742		false	in-use	02:9b:f8:da:98:4f	172.31.6.162	ip-172-31-6-162.ap-southeast-1.compute.internal	true
+GROUP	sg-73091b11	launch-wizard-2
+ATTACHMENT	i-dec5a088	eni-attach-d6696281	attached	true
+ASSOCIATION	54.254.233.84	amazon		172.31.6.162	ec2-54-254-233-84.ap-southeast-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.6.162	ip-172-31-6-162.ap-southeast-1.compute.internal
+NETWORKINTERFACE	eni-6126c104		subnet-43697b21	vpc-f1372193	ap-southeast-1a	953969834742		false	in-use	02:0c:4d:b3:dc:11	172.31.6.161	ip-172-31-6-161.ap-southeast-1.compute.internal	true
+GROUP	sg-73091b11	launch-wizard-2
+ATTACHMENT	i-dfc5a089	eni-attach-d5696282	attached	true
+ASSOCIATION	54.254.233.85	amazon		172.31.6.161	ec2-54-254-233-85.ap-southeast-1.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.6.161	ip-172-31-6-161.ap-southeast-1.compute.internal
+ap-southeast-2
+NETWORKINTERFACE	eni-d845a1bd		subnet-3a011258	vpc-1ee1f77c	ap-southeast-2a	953969834742		false	in-use	02:65:cc:7f:d6:76	172.31.12.156	ip-172-31-12-156.ap-southeast-2.compute.internal	true
+GROUP	sg-344d5056	launch-wizard-2
+ATTACHMENT	i-509c2a6f	eni-attach-121ff52e	attached	true
+ASSOCIATION	54.206.72.60	amazon		172.31.12.156	ec2-54-206-72-60.ap-southeast-2.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.12.156	ip-172-31-12-156.ap-southeast-2.compute.internal
+NETWORKINTERFACE	eni-db45a1be		subnet-3a011258	vpc-1ee1f77c	ap-southeast-2a	953969834742		false	in-use	02:c0:74:ff:dd:d8	172.31.12.155	ip-172-31-12-155.ap-southeast-2.compute.internal	true
+GROUP	sg-344d5056	launch-wizard-2
+ATTACHMENT	i-519c2a6e	eni-attach-151ff529	attached	true
+ASSOCIATION	54.206.66.219	amazon		172.31.12.155	ec2-54-206-66-219.ap-southeast-2.compute.amazonaws.com
+PRIVATEIPADDRESS	172.31.12.155	ip-172-31-12-155.ap-southeast-2.compute.internal

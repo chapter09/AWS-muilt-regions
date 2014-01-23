@@ -1,0 +1,18 @@
+------------------------------------------------------------
+Server listening on TCP port 10086
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 172.31.6.161 port 10086 connected with 54.199.128.226 port 34700
+[  5] local 172.31.6.161 port 10086 connected with 54.199.164.39 port 56177
+[  6] local 172.31.6.161 port 10086 connected with 54.206.72.60 port 51704
+[  7] local 172.31.6.161 port 10086 connected with 54.206.66.219 port 56490
+[  8] local 172.31.6.161 port 10086 connected with 54.193.26.119 port 43509
+[  9] local 172.31.6.161 port 10086 connected with 54.200.105.10 port 36317
+[ 10] local 172.31.6.161 port 10086 connected with 54.193.67.252 port 39161
+[ 11] local 172.31.6.161 port 10086 connected with 54.200.75.61 port 40985
+[ 12] local 172.31.6.161 port 10086 connected with 54.209.228.40 port 41027
+[ 13] local 172.31.6.161 port 10086 connected with 54.236.224.34 port 54751
+[ 14] local 172.31.6.161 port 10086 connected with 54.194.219.19 port 52335
+[ 15] local 172.31.6.161 port 10086 connected with 54.194.219.8 port 55876
+[ 16] local 172.31.6.161 port 10086 connected with 54.207.54.205 port 45625
+[ 17] local 172.31.6.161 port 10086 connected with 54.207.54.206 port 57841
